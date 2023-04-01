@@ -23,4 +23,5 @@ Sou graduando em Análise e Desenvolvimento de Sistemas e possuo conhecimentos p
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfrossard)](https://github.com/arthurfrossard/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfrossard&layout=compact)](https://github.com/arthurfrossard/github-readme-stats)
+
