@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Arthur Frossard!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurfrossard)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthurfrossard)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthurfrossard/)
 
 ### Sobre mim!<br/>
 Sou graduando em Análise e Desenvolvimento de Sistemas e possuo conhecimentos prévios em hardware, com ênfase em montagem e manutenção de computadores. Além disso, nas horas vagas, sou um entusiasta de jogos online e mantenho-me conectado.
