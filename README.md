@@ -14,9 +14,7 @@ Sou graduando em Análise e Desenvolvimento de Sistemas e possuo conhecimentos p
 
 <br/>
 
-![Frossard GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurfrossard&show_icons=true&theme=dracula)
-
-## Algumas Tecnologias que estou aprendendo! 📖
+## Algumas Tecnologias que estou desenvolvendo! 📖
 
 <div style="display': inline_block"><br/>
     <a href="https://skillicons.dev">
@@ -24,7 +22,3 @@ Sou graduando em Análise e Desenvolvimento de Sistemas e possuo conhecimentos p
     </a>
 </div>
 <br/>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfrossard&layout=compact)](https://github.com/arthurfrossard/github-readme-stats)
-
