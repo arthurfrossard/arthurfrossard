@@ -12,8 +12,6 @@
 ### Sobre mim!<br/>
 Sou graduando em Análise e Desenvolvimento de Sistemas e possuo conhecimentos prévios em hardware, com ênfase em montagem e manutenção de computadores. Além disso, nas horas vagas, sou um entusiasta de jogos online e mantenho-me conectado.
 
-<br/>
-
 ## Algumas Tecnologias que estou desenvolvendo! 📖
 
 <div style="display': inline_block"><br/>
